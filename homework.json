@@ -1,0 +1,350 @@
+[
+  {
+    "date": "2025-12-08",
+    "title": "Week 50: Spelling Pratice",
+    "type": "spelling",
+    "wordCount": 20,
+    "words": [
+  {
+    "word": "ASSEMBLE",
+    "difficulty": "medium",
+    "ageGroup": "11+",
+    "phonetic": "/əˈsɛmbəl/",
+    "definition": "To gather together; to put together the parts of.",
+    "exampleSentence": "We will assemble in the hall at noon.",
+    "commonMistakes": [
+      "ASEMBLE",
+      "ASSEMBEL",
+      "ASSEMBLEE"
+    ],
+    "partOfSpeech": "verb",
+    "mnemonicHint": "Double S, single M",
+    "source": "static",
+    "priority": 1
+  },
+  {
+    "word": "BEWILDERED",
+    "difficulty": "hard",
+    "ageGroup": "11+",
+    "phonetic": "/bɪˈwɪldəd/",
+    "definition": "Confused and unable to understand something.",
+    "exampleSentence": "She looked bewildered by the complex instructions.",
+    "commonMistakes": [
+      "BEWILDERD",
+      "BEWILDERRED",
+      "BEWILERED"
+    ],
+    "partOfSpeech": "adjective",
+    "mnemonicHint": "BE + WILDER + ED - like 'wild' with BE and ED",
+    "source": "static",
+    "priority": 1
+  },
+  {
+    "word": "COMPETITION",
+    "difficulty": "medium",
+    "ageGroup": "11+",
+    "phonetic": "/ˌkɒmpɪˈtɪʃ(ə)n/",
+    "definition": "The activity or condition of competing.",
+    "exampleSentence": "She won first place in the competition.",
+    "commonMistakes": [
+      "COMPETION",
+      "COMPETTIION",
+      "COMPETATION"
+    ],
+    "partOfSpeech": "noun",
+    "mnemonicHint": "Not COMPETION - remember the I before TION",
+    "source": "static",
+    "priority": 1
+  },
+  {
+    "word": "CONVENTIONAL",
+    "difficulty": "medium",
+    "ageGroup": "11+",
+    "phonetic": "/kənˈvɛnʃ(ə)nəl/",
+    "definition": "Based on or in accordance with what is generally done or believed.",
+    "exampleSentence": "They chose a conventional approach to the problem.",
+    "commonMistakes": [
+      "CONVENSIONAL",
+      "CONVENTIONEL",
+      "CONVETIONAL"
+    ],
+    "partOfSpeech": "adjective",
+    "mnemonicHint": "CONVENTION + AL",
+    "source": "static",
+    "priority": 1
+  },
+  {
+    "word": "EVALUATION",
+    "difficulty": "medium",
+    "ageGroup": "11+",
+    "phonetic": "/ɪˌvæljuˈeɪʃən/",
+    "definition": "The making of a judgment about the amount, number, or value of something.",
+    "exampleSentence": "The evaluation of the project will take two weeks.",
+    "commonMistakes": [
+      "EVALUTION",
+      "EVALUASHUN",
+      "EVALATION"
+    ],
+    "partOfSpeech": "noun",
+    "mnemonicHint": "E + VALUE + ATION",
+    "source": "static",
+    "priority": 1
+  },
+  {
+    "word": "EXISTENCE",
+    "difficulty": "medium",
+    "ageGroup": "11+",
+    "phonetic": "/ɪɡˈzɪstəns/",
+    "definition": "The fact or state of living or having objective reality.",
+    "exampleSentence": "The existence of life on other planets is still unknown.",
+    "commonMistakes": [
+      "EXISTANCE",
+      "EXISENCE",
+      "EXISTENE"
+    ],
+    "partOfSpeech": "noun",
+    "mnemonicHint": "Ends in ENCE, not ANCE",
+    "source": "static",
+    "priority": 1
+  },
+  {
+    "word": "FRIEND",
+    "difficulty": "easy",
+    "ageGroup": "11+",
+    "phonetic": "/frend/",
+    "definition": "A person you know well and like.",
+    "exampleSentence": "She is my best friend from school.",
+    "commonMistakes": [
+      "FREIND",
+      "FREND",
+      "FRIED"
+    ],
+    "partOfSpeech": "noun",
+    "mnemonicHint": "A friEND is there until the END",
+    "source": "static",
+    "priority": 1
+  },
+  {
+    "word": "GRIEVE",
+    "difficulty": "medium",
+    "ageGroup": "11+",
+    "phonetic": "/ɡriːv/",
+    "definition": "To feel intense sorrow, especially because of someone's death.",
+    "exampleSentence": "They grieve for their lost friend.",
+    "commonMistakes": [
+      "GREIVE",
+      "GRIEV",
+      "GRIEVVE"
+    ],
+    "partOfSpeech": "verb",
+    "mnemonicHint": "I before E - GRIEVE",
+    "source": "static",
+    "priority": 1
+  },
+  {
+    "word": "INTERROGATE",
+    "difficulty": "hard",
+    "ageGroup": "11+",
+    "phonetic": "/ɪnˈtɛrəˌɡeɪt/",
+    "definition": "To ask questions of someone closely, aggressively, or formally.",
+    "exampleSentence": "The police will interrogate the suspect.",
+    "commonMistakes": [
+      "INTEROGATE",
+      "INTERROGAT",
+      "INTEROGGATE"
+    ],
+    "partOfSpeech": "verb",
+    "mnemonicHint": "INTER + RO + GATE - double R",
+    "source": "static",
+    "priority": 1
+  },
+  {
+    "word": "NAUSEOUS",
+    "difficulty": "hard",
+    "ageGroup": "11+",
+    "phonetic": "/ˈnɔːziəs/",
+    "definition": "Affected with nausea; feeling sick.",
+    "exampleSentence": "The smell made her feel nauseous.",
+    "commonMistakes": [
+      "NAUSEUS",
+      "NAUSEAS",
+      "NAUSEOUSE"
+    ],
+    "partOfSpeech": "adjective",
+    "mnemonicHint": "NAUSEA + OUS",
+    "source": "static",
+    "priority": 1
+  },
+  {
+    "word": "OBSTINATE",
+    "difficulty": "hard",
+    "ageGroup": "11+",
+    "phonetic": "/ˈɒbstɪnət/",
+    "definition": "Stubbornly refusing to change one's opinion or course of action.",
+    "exampleSentence": "He was obstinate and refused to listen.",
+    "commonMistakes": [
+      "OBSTANATE",
+      "OSBTINATE",
+      "OBSTNATE"
+    ],
+    "partOfSpeech": "adjective",
+    "mnemonicHint": "OBST + INATE - not OBSTANATE",
+    "source": "static",
+    "priority": 1
+  },
+  {
+    "word": "PECULIAR",
+    "difficulty": "medium",
+    "ageGroup": "11+",
+    "phonetic": "/pɪˈkjuːliə/",
+    "definition": "Different to what is normal or expected; strange.",
+    "exampleSentence": "Something peculiar is going on.",
+    "commonMistakes": [
+      "PECULIER",
+      "EPCULIAR",
+      "PEUCLIAR"
+    ],
+    "partOfSpeech": "adjective",
+    "mnemonicHint": "PECUL + IAR - not LIER",
+    "source": "static",
+    "priority": 1
+  },
+  {
+    "word": "PROFESSION",
+    "difficulty": "medium",
+    "ageGroup": "11+",
+    "phonetic": "/prəˈfɛʃ(ə)n/",
+    "definition": "A paid occupation, especially one that involves prolonged training and a formal qualification.",
+    "exampleSentence": "Engineering is a respected profession.",
+    "commonMistakes": [
+      "PROFESION",
+      "PRFOESSION",
+      "PROFESSAON"
+    ],
+    "partOfSpeech": "noun",
+    "mnemonicHint": "One F, Double S",
+    "source": "static",
+    "priority": 1
+  },
+  {
+    "word": "RIDICULOUS",
+    "difficulty": "medium",
+    "ageGroup": "11+",
+    "phonetic": "/rɪˈdɪkjʊləs/",
+    "definition": "Deserving or inviting derision or mockery; absurd.",
+    "exampleSentence": "That is a ridiculous idea.",
+    "commonMistakes": [
+      "REDICULOUS",
+      "RIDIUCLOUS",
+      "RDIICULOUS"
+    ],
+    "partOfSpeech": "adjective",
+    "mnemonicHint": "Not REDICULOUS - starts with RI",
+    "source": "static",
+    "priority": 1
+  },
+  {
+    "word": "SOLDIER",
+    "difficulty": "medium",
+    "ageGroup": "11+",
+    "phonetic": "/ˈsəʊldʒə/",
+    "definition": "A person who serves in an army.",
+    "exampleSentence": "The soldier marched on.",
+    "commonMistakes": [
+      "SOLJER",
+      "SLODIER",
+      "SOLIER"
+    ],
+    "partOfSpeech": "noun",
+    "mnemonicHint": "SOL + DIER - not SOLJER",
+    "source": "static",
+    "priority": 1
+  },
+  {
+    "word": "SPECIAL",
+    "difficulty": "easy",
+    "ageGroup": "11+",
+    "phonetic": "/ˈspɛʃəl/",
+    "definition": "Better, greater, or otherwise different from what is usual.",
+    "exampleSentence": "Today is a special day.",
+    "commonMistakes": [
+      "SPECAL",
+      "SPESHAL",
+      "SPESIAL"
+    ],
+    "partOfSpeech": "adjective",
+    "mnemonicHint": "SPEC + IAL - not SPECAL",
+    "source": "static",
+    "priority": 1
+  },
+  {
+    "word": "SUBTERFUGE",
+    "difficulty": "hard",
+    "ageGroup": "11+",
+    "phonetic": "/ˈsʌbtəfjuːdʒ/",
+    "definition": "Deceit used in order to achieve one's goal.",
+    "exampleSentence": "He used subterfuge to avoid paying taxes.",
+    "commonMistakes": [
+      "SUBTERFUDGE",
+      "SUBTERFUG",
+      "SUBTERFUJE"
+    ],
+    "partOfSpeech": "noun",
+    "mnemonicHint": "SUBTER + FUGE - like 'refuge' with SUBTER",
+    "source": "static",
+    "priority": 1
+  },
+  {
+    "word": "SUBTERRANEAN",
+    "difficulty": "hard",
+    "ageGroup": "11+",
+    "phonetic": "/ˌsʌbtəˈreɪniən/",
+    "definition": "Existing, occurring, or done under the earth's surface.",
+    "exampleSentence": "The subterranean tunnel was discovered.",
+    "commonMistakes": [
+      "SUBTERRANIAN",
+      "SUBTERRANEN",
+      "SUBTERRANEEN"
+    ],
+    "partOfSpeech": "adjective",
+    "mnemonicHint": "SUBTERR + ANEAN - not ANIAN",
+    "source": "static",
+    "priority": 1
+  },
+  {
+    "word": "TURBULENT",
+    "difficulty": "hard",
+    "ageGroup": "11+",
+    "phonetic": "/ˈtɜːbjʊlənt/",
+    "definition": "Characterized by conflict, disorder, or confusion; not controlled or calm.",
+    "exampleSentence": "The flight was turbulent due to the storm.",
+    "commonMistakes": [
+      "TURBULANT",
+      "TURBULENTE",
+      "TURBULAN"
+    ],
+    "partOfSpeech": "adjective",
+    "mnemonicHint": "TURBUL + ENT - not ANT",
+    "source": "static",
+    "priority": 1
+  },
+  {
+    "word": "WASTEFUL",
+    "difficulty": "medium",
+    "ageGroup": "11+",
+    "phonetic": "/ˈweɪstfəl/",
+    "definition": "Using or expending something of value carelessly, extravagantly, or to no purpose.",
+    "exampleSentence": "It is wasteful to leave the lights on.",
+    "commonMistakes": [
+      "WASTFUL",
+      "WASTEFULL",
+      "WASTFULL"
+    ],
+    "partOfSpeech": "adjective",
+    "mnemonicHint": "WASTE + FUL - not WASTFUL",
+    "source": "static",
+    "priority": 1
+  }
+  ]
+  }
+]

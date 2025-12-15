@@ -1,4 +1,351 @@
-[
+[  {
+    "date": "2025-12-08",
+    "title": "Week 51: Spelling Practice",
+    "type": "spelling",
+    "wordCount": 20,
+    "words": [
+      {
+        "word": "BELIEVE",
+        "difficulty": "easy",
+        "ageGroup": "11+",
+        "phonetic": "/bɪˈliːv/",
+        "definition": "To accept something as true.",
+        "exampleSentence": "I believe you can achieve your goals.",
+        "commonMistakes": [
+          "BELEIVE",
+          "BELIVE",
+          "BELEAVE"
+        ],
+        "partOfSpeech": "verb",
+        "mnemonicHint": "Contains LIE (I before E)",
+        "source": "static",
+        "priority": 1
+      },
+      {
+        "word": "CEMETERY",
+        "difficulty": "hard",
+        "ageGroup": "11+",
+        "phonetic": "/ˈsɛmɪtri/",
+        "definition": "A burial ground.",
+        "exampleSentence": "The old cemetery is on the hill.",
+        "commonMistakes": [
+          "CEMETARY",
+          "CEMEETRY",
+          "CEMETEY"
+        ],
+        "partOfSpeech": "noun",
+        "mnemonicHint": "Not CEMETARY",
+        "source": "static",
+        "priority": 1
+      },
+      {
+        "word": "CONDEMN",
+        "difficulty": "hard",
+        "ageGroup": "11+",
+        "phonetic": "/kənˈdɛm/",
+        "definition": "To express complete disapproval of.",
+        "exampleSentence": "Leaders condemn the attack.",
+        "commonMistakes": [
+          "CODNEMN",
+          "OCNDEMN",
+          "CONDEN"
+        ],
+        "partOfSpeech": "verb",
+        "mnemonicHint": "Silent N",
+        "source": "static",
+        "priority": 1
+      },
+      {
+        "word": "CONTEMPT",
+        "difficulty": "hard",
+        "ageGroup": "11+",
+        "phonetic": "/kənˈtɛmpt/",
+        "definition": "The feeling that someone or something is worthless.",
+        "exampleSentence": "He looked at them with contempt.",
+        "commonMistakes": [
+          "CONTEMPTT",
+          "CONTEMPTA",
+          "CONTEMPTP"
+        ],
+        "partOfSpeech": "noun",
+        "mnemonicHint": "Ends with PT, not MP",
+        "source": "static",
+        "priority": 1
+      },
+      {
+        "word": "CONVEY",
+        "difficulty": "medium",
+        "ageGroup": "11+",
+        "phonetic": "/kənˈveɪ/",
+        "definition": "To communicate or make known.",
+        "exampleSentence": "Use examples to convey your idea.",
+        "commonMistakes": [
+          "CONVAY",
+          "CONVEYY",
+          "CONVY"
+        ],
+        "partOfSpeech": "verb",
+        "mnemonicHint": "V + EY sounds like 'vay'",
+        "source": "static",
+        "priority": 1
+      },
+      {
+        "word": "DISTASTEFUL",
+        "difficulty": "medium",
+        "ageGroup": "11+",
+        "phonetic": "/dɪsˈteɪstfəl/",
+        "definition": "Causing dislike or mild disgust.",
+        "exampleSentence": "The joke was distasteful.",
+        "commonMistakes": [
+          "DISTASTFUL",
+          "DISTASTEULL",
+          "DISTATESFUL"
+        ],
+        "partOfSpeech": "adjective",
+        "mnemonicHint": "TASTE + FUL with dis-",
+        "source": "static",
+        "priority": 1
+      },
+      {
+        "word": "ENTIRELY",
+        "difficulty": "medium",
+        "ageGroup": "11+",
+        "phonetic": "/ɪnˈtaɪəli/",
+        "definition": "Completely, fully.",
+        "exampleSentence": "The idea is entirely new.",
+        "commonMistakes": [
+          "ENTIRLY",
+          "ENTIRELEY",
+          "ENTIREYL"
+        ],
+        "partOfSpeech": "adverb",
+        "mnemonicHint": "Keep the full ENTIRE + LY",
+        "source": "static",
+        "priority": 1
+      },
+      {
+        "word": "FEIGN",
+        "difficulty": "hard",
+        "ageGroup": "11+",
+        "phonetic": "/feɪn/",
+        "definition": "To pretend to feel or be affected by something.",
+        "exampleSentence": "She would feign illness to avoid school.",
+        "commonMistakes": [
+          "FEIN",
+          "FANE",
+          "FEIGNN"
+        ],
+        "partOfSpeech": "verb",
+        "mnemonicHint": "EI makes the 'ay' sound",
+        "source": "static",
+        "priority": 1
+      },
+      {
+        "word": "GRATITUDE",
+        "difficulty": "medium",
+        "ageGroup": "11+",
+        "phonetic": "/ˈɡrætɪtjuːd/",
+        "definition": "The quality of being thankful.",
+        "exampleSentence": "Show gratitude with a kind note.",
+        "commonMistakes": [
+          "GRATITIUDE",
+          "GRATITUE",
+          "GRATITUDEE"
+        ],
+        "partOfSpeech": "noun",
+        "mnemonicHint": "GRATI + TUDE, like attitude",
+        "source": "static",
+        "priority": 1
+      },
+      {
+        "word": "HANDKERCHIEF",
+        "difficulty": "hard",
+        "ageGroup": "11+",
+        "phonetic": "/ˈhæŋkətʃɪf/",
+        "definition": "A square of cloth for wiping the face or nose.",
+        "exampleSentence": "He carried a clean handkerchief in his pocket.",
+        "commonMistakes": [
+          "HANKERCHIEF",
+          "HANDKRCHIEF",
+          "HADNKERCHIEF"
+        ],
+        "partOfSpeech": "noun",
+        "mnemonicHint": "HAND + KERCHIEF; silent D",
+        "source": "static",
+        "priority": 1
+      },
+      {
+        "word": "INCISION",
+        "difficulty": "medium",
+        "ageGroup": "11+",
+        "phonetic": "/ɪnˈsɪʒən/",
+        "definition": "A surgical cut made in skin or flesh.",
+        "exampleSentence": "The doctor made a small incision.",
+        "commonMistakes": [
+          "INSISION",
+          "INCISIONE",
+          "INSCISION"
+        ],
+        "partOfSpeech": "noun",
+        "mnemonicHint": "CIS like scissor",
+        "source": "static",
+        "priority": 1
+      },
+      {
+        "word": "MAXIMUM",
+        "difficulty": "medium",
+        "ageGroup": "11+",
+        "phonetic": "/ˈmæksɪməm/",
+        "definition": "The greatest possible amount or degree.",
+        "exampleSentence": "Drive below the maximum speed.",
+        "commonMistakes": [
+          "MAXIMEM",
+          "MAXIMAM",
+          "MAIMUM"
+        ],
+        "partOfSpeech": "noun",
+        "mnemonicHint": "MAX + I + MUM",
+        "source": "static",
+        "priority": 1
+      },
+      {
+        "word": "OBSCURE",
+        "difficulty": "medium",
+        "ageGroup": "11+",
+        "phonetic": "/əbˈskjʊə/",
+        "definition": "Not clearly expressed or easily understood.",
+        "exampleSentence": "The meaning is obscure.",
+        "commonMistakes": [
+          "OBSCUR",
+          "OBSCUREE",
+          "OBSCUER"
+        ],
+        "partOfSpeech": "adjective/verb",
+        "mnemonicHint": "OB + SCURE with SC",
+        "source": "static",
+        "priority": 1
+      },
+      {
+        "word": "POMPOUS",
+        "difficulty": "medium",
+        "ageGroup": "11+",
+        "phonetic": "/ˈpɒmpəs/",
+        "definition": "Affecting an exaggerated sense of importance.",
+        "exampleSentence": "His pompous speech annoyed the crowd.",
+        "commonMistakes": [
+          "POMPUS",
+          "POMPUSS",
+          "POMPOUSE"
+        ],
+        "partOfSpeech": "adjective",
+        "mnemonicHint": "POMP + OUS",
+        "source": "static",
+        "priority": 1
+      },
+      {
+        "word": "QUAINT",
+        "difficulty": "medium",
+        "ageGroup": "11+",
+        "phonetic": "/kweɪnt/",
+        "definition": "Attractively unusual or old-fashioned.",
+        "exampleSentence": "They stayed in a quaint cottage.",
+        "commonMistakes": [
+          "QUAINTT",
+          "QUAINTE",
+          "QUINT"
+        ],
+        "partOfSpeech": "adjective",
+        "mnemonicHint": "AI makes the long A sound",
+        "source": "static",
+        "priority": 1
+      },
+      {
+        "word": "SACRED",
+        "difficulty": "medium",
+        "ageGroup": "11+",
+        "phonetic": "/ˈseɪkrɪd/",
+        "definition": "Connected with God or dedicated to a religious purpose.",
+        "exampleSentence": "The shrine is sacred to the locals.",
+        "commonMistakes": [
+          "SACRAD",
+          "SACREED",
+          "SACRID"
+        ],
+        "partOfSpeech": "adjective",
+        "mnemonicHint": "SAC + RED without the R",
+        "source": "static",
+        "priority": 1
+      },
+      {
+        "word": "SEPARATE",
+        "difficulty": "medium",
+        "ageGroup": "11+",
+        "phonetic": "/ˈsɛpərət/",
+        "definition": "To divide or keep apart.",
+        "exampleSentence": "Separate the papers into piles.",
+        "commonMistakes": [
+          "SEPERATE",
+          "SEPRATE",
+          "SEPERETE"
+        ],
+        "partOfSpeech": "verb/adjective",
+        "mnemonicHint": "There is A RAT in sepARAte",
+        "source": "static",
+        "priority": 1
+      },
+      {
+        "word": "SUBDUED",
+        "difficulty": "medium",
+        "ageGroup": "11+",
+        "phonetic": "/səbˈdjuːd/",
+        "definition": "Quiet and rather reflective or depressed.",
+        "exampleSentence": "Her mood was subdued after the news.",
+        "commonMistakes": [
+          "SUBDUE",
+          "SUBDEWED",
+          "SUBDUEDD"
+        ],
+        "partOfSpeech": "adjective",
+        "mnemonicHint": "SUB + DUED (silent B)",
+        "source": "static",
+        "priority": 1
+      },
+      {
+        "word": "SUFFICIENT",
+        "difficulty": "medium",
+        "ageGroup": "11+",
+        "phonetic": "/səˈfɪʃ(ə)nt/",
+        "definition": "Enough; adequate.",
+        "exampleSentence": "There was sufficient food for everyone.",
+        "commonMistakes": [
+          "SUFICIENT",
+          "SUFFICENT",
+          "SUFFIICENT"
+        ],
+        "partOfSpeech": "adjective",
+        "mnemonicHint": "Double F",
+        "source": "static",
+        "priority": 1
+      },
+      {
+        "word": "VICARIOUS",
+        "difficulty": "hard",
+        "ageGroup": "11+",
+        "phonetic": "/vɪˈkɛərɪəs/",
+        "definition": "Experienced in the imagination through another.",
+        "exampleSentence": "She felt vicarious joy from their success.",
+        "commonMistakes": [
+          "VICAROUS",
+          "VICARIOUSE",
+          "VIKARIOUS"
+        ],
+        "partOfSpeech": "adjective",
+        "mnemonicHint": "CAR in the middle, ends with -OUS",
+        "source": "static",
+        "priority": 1
+      }
+    ]
+  },
   {
     "date": "2025-12-08",
     "title": "Week 50: Spelling Pratice",

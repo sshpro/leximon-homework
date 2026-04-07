@@ -7,7 +7,7 @@ jobs:
   lint:
     runs-on: ubuntu-latest
     steps:
-      - run: echo "lint passed"
+      - run: echo "Test lint passed"
 
   conditional-required:
     runs-on: ubuntu-latest

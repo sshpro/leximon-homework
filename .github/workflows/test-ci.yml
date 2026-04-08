@@ -15,4 +15,13 @@ jobs:
     needs: [lint]
     steps:
       - name: Check results
-        run: echo "all good, merge welll"
+        run: |
+          echo '${{ toJSON(needs) }}' | jq -e '
+            to_entries |
+            map(select(.value.result != "success" and .value.result != "skipped")) |
+            if length > 0 then
+              .[0] | "Failed: " + .key + " (" + .value.result + ")" | halt_error(1)
+            else
+              "All jobs passed or were skipped"
+            end
+          '

@@ -15,4 +15,4 @@ jobs:
     needs: [lint]
     steps:
       - name: Check results
-        run: echo "all good"
+        run: echo "all good, merge welll"

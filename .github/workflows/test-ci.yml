@@ -7,7 +7,7 @@ jobs:
   lint:
     runs-on: ubuntu-latest
     steps:
-      - run: echo "Test lint passed"
+      - run: exit 1
 
   leximon-homework-required:
     runs-on: ubuntu-latest
